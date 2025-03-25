@@ -2,4 +2,6 @@ Padrao
 
 *.exe
 
-.vscode
+*.vscode
+
+*.o
